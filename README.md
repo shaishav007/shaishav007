@@ -1,16 +1,17 @@
-### Hi there 👋
+### 
 
-<!--
-**shaishav007/shaishav007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shaishav here 👋 I am a Frontend Developer with a background in 3D art and animation. I learnt to code in python in my first job and then made it my own by using it to build animations in Blender. Recently, I graduated from a Frontend Development bootcamp where I spent hours building stuff in React and ThreeJS which are technologies I have come to love. My dad and grandfather both were doctors in rural India and I learnt the value of community service from them. I recently move to Canada where I work at a print shop. Helping elderly and non-tech savvy people interact with printers and interfaces brings me great joy.
 
-Here are some ideas to get you started:
+I am a/an 
+- huge advocate for accessibility
+- decent chess player
+- an amateur illustrator 
+Here's a panda for you - https://www.youtube.com/watch?v=bKQ5wN0RKjU
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-😄 Pronouns: He/Him
+-🔭 I'm currently working on an app to make printing easy for old people
+-🌱 I'm currently learning more about ThreeJS and React Three Fiber
+-👯 I’m looking to collaborate on Civic Tech Projects
+-💬 Ask me about 3D art, animation, Game Development, 3D printing
+-📫 Reach out to me on Linkedin or shaishav007 at gmail dot com
+-⚡ Fun fact: "Stewardesses" is the longest word that is typed with only the left hand
