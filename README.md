@@ -14,4 +14,4 @@ For the past 3 years, I’ve been diving deep into the technical side of modern 
 **Bloom** - A free, secure, and web-based trauma healing support service from Chayn. Since 2013, Chayn has reached over 500,000 survivors worldwide with our trauma-informed, survivor-centred, and intersectional approaches in utilizing open-source tech for positive social impact.
 
 **Want to connect? **
-Please reach out on **shaishav007@gmail.com**
+ Please reach out on **shaishav007@gmail.com**
