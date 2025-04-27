@@ -4,7 +4,7 @@
 
 Dev @ **tiary.com** and **roseatejewelry.com**
 
-**Tech-stack**
+**Tech-stack**:
 NodeJS, ReactJS, NextJS, Postgres, Firebase, GatsbyJS, SQL
 
 **What I do?**
