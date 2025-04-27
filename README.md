@@ -3,6 +3,7 @@
 😄 Pronouns: He/Him
 
 Dev @ **tiary.com** and **roseatejewelry.com**
+
 **Tech-stack**
 NodeJS, ReactJS, NextJS, Postgres, Firebase, GatsbyJS, SQL
 
