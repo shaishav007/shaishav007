@@ -5,7 +5,7 @@
 Dev @ **tiary.com** and **roseatejewelry.com**
 
 **What I do?**
-For the past 3 years, I’ve been diving deep into the technical side of modern e-commerce. I believe a website is just a small part of the bigger picture. It’s the backend systems—order fulfillment, analytics, marketing tool integrations, and dynamic content management—that really make everything work. At Roseate and Tiary, my focus has been on building and maintaining these complete solutions.
+For the past 3 years, I’ve been diving deep into the technical side of modern e-commerce. I believe a website is just a small part of the bigger picture. It’s the backend systems—order fulfillment, analytics, marketing tool integrations, and dynamic content management—that really make everything work. At Roseate and Tiary, my focus has been on building and maintaining technical solutions for these problems.
 
 **Qualifications?**
 - Bachelor's Degree in Engineering (graduated 2016)
