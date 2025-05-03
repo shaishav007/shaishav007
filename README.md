@@ -13,7 +13,7 @@ For the past 3 years, I’ve been diving deep into the technical side of modern 
 **Qualifications?**
 - Bachelor's Degree in Engineering (graduated 2016)
 
-**Other causes I care about:-(community projects where I contributed in the past)**
+**Other causes I care about(community projects where I contributed in the past)**:-
 
 **Bloom** - A free, secure, and web-based trauma healing support service from Chayn. Since 2013, Chayn has reached over 500,000 survivors worldwide with our trauma-informed, survivor-centred, and intersectional approaches in utilizing open-source tech for positive social impact.
 
